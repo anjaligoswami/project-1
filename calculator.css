@@ -13,6 +13,7 @@ body {
 }
 
 #whole {
+  scale : 15;
   position: relative;
   border-radius: 10px;
   background: #232C43FF;
