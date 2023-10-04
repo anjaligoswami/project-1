@@ -17,14 +17,14 @@ body {
   color : white;
   margin-bottom : 20px;
   margin-top: 10px;
-  font-family: 'sans-serif';
+/*   font-family: 'sans-serif'; */
   font-size : 35px;
 }
 
 .footer {
   color : white;
   margin-bottom : 10px;
-  mragin-top: 10px;
+  margin-top: 10px;
 }
 
 #whole {
